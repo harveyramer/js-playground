@@ -1,0 +1,1821 @@
+{
+  "rows": [
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "16:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": true,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": true,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFF4:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015261\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -10,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "16:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "17:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": true,
+        "sat": false,
+        "sun": true
+      },
+      "min_age": "P02Y00M",
+      "name": "HFF4:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015262\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -9,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "16:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "17:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": true,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFF5:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015263\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -7,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "17:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "18:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": true,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFF5:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015264\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -8,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "17:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "11:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": false,
+        "thu": true,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFH11:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15016106\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -1,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "11:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "12:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": false,
+        "thu": true,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFH11:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=0\u0026amp;preLoadClassID=15015405\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 2,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "11:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "15:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": false,
+        "thu": true,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFH3:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15016142\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 0,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "15:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "16:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": false,
+        "thu": true,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFH3:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15016150\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 0,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "15:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "19:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": false,
+        "thu": true,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFH6:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015259\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -3,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "18:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "19:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": false,
+        "thu": true,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFH7:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015260\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -2,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "19:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "11:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": true,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFM11:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015353\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 0,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "11:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Group",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "12:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": true,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFM11:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=0\u0026amp;preLoadClassID=15015383\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 1,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "11:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "15:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": true,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFM2:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=0\u0026amp;preLoadClassID=15015252\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 1,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "14:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "15:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": true,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFM3:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015743\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 0,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "15:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "16:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": true,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFM3:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015816\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -2,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "15:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "19:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": true,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFM6:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015253\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -8,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "18:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "19:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": true,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFM7:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015254\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -3,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "19:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "11:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": false,
+        "tue": true,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFT11:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=0\u0026amp;preLoadClassID=15015512\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 2,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "11:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "12:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": false,
+        "tue": true,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFT11:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=0\u0026amp;preLoadClassID=15015972\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 1,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "11:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "15:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": false,
+        "tue": true,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFT3:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15016001\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 0,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "15:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "16:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": false,
+        "tue": true,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFT3:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15016021\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 0,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "15:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "19:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": false,
+        "tue": true,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFT6:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015255\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -6,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "18:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "19:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": false,
+        "tue": true,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFT7:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015256\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -1,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "19:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "15:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": true
+      },
+      "min_age": "P02Y00M",
+      "name": "HFU3:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015265\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -9,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "15:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "16:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": true
+      },
+      "min_age": "P02Y00M",
+      "name": "HFU3:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015266\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -8,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "15:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "16:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": false,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": true
+      },
+      "min_age": "P02Y00M",
+      "name": "HFU4:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015267\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -10,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "16:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "11:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": true,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFW11:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=0\u0026amp;preLoadClassID=15015381\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 1,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "11:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "12:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": true,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFW11:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015404\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 0,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "11:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "15:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": true,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFW2:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015251\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 0,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "14:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "15:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": true,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFW3:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015336\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": 0,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "15:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "16:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y11M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": true,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFW3:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015427\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -4,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "15:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "19:00",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": true,
+        "thu": false,
+        "fri": false,
+        "sat": true,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFW6:30 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015257\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -5,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "18:30",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    },
+    {
+      "category1": "Private",
+      "category2": "Private",
+      "category3": "",
+      "description": "",
+      "end_date": "2023-06-10",
+      "end_time": "19:30",
+      "gender": "All",
+      "instructors": [],
+      "location": "HFFA",
+      "location_code": "HFFA",
+      "location_name": "Huntersville Family Fitness \u0026 Aquatics",
+      "master_class": false,
+      "max_age": "P99Y00M",
+      "meeting_days": {
+        "mon": false,
+        "tue": false,
+        "wed": true,
+        "thu": false,
+        "fri": false,
+        "sat": false,
+        "sun": false
+      },
+      "min_age": "P02Y00M",
+      "name": "HFW7:00 Private Lesson",
+      "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=524744\u0026amp;hc=\u0026amp;initEmpty=\u0026amp;hdrColor=\u0026amp;WL=1\u0026amp;preLoadClassID=15015258\u0026amp;loc=",
+      "openings": {
+        "calculated_openings": -4,
+        "days": {
+          "mon": 0,
+          "tue": 0,
+          "wed": 0,
+          "thu": 0,
+          "fri": 0,
+          "sat": 0,
+          "sun": 0
+        }
+      },
+      "reg_start_date": "2022-08-01",
+      "room": "25 yd at HFFA",
+      "session": "22/23 School Year (Sept-June)",
+      "start_date": "2022-09-06",
+      "start_time": "19:00",
+      "tuition": {
+        "fee": 180.00,
+        "days": {
+          "day_2": 0,
+          "day_3": 0,
+          "day_4": 0,
+          "day_5": 0,
+          "day_6": 0,
+          "day_7": 0
+        }
+      }
+    }
+  ],
+  "success": true,
+  "message": "Class listings returned successfully!"
+}
