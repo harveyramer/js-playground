@@ -33,8 +33,8 @@ const formatDays = (days: any) => {
 
 export const fetchData = async () => {
   const result = await fetch('https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJson?OrgID=524744&Cat2=Private&Session=22/23%20School%20Year%20(Sept-June)');
-  // const json: any = await result.json();
-  const json = test;
+  const json: any = await result.json();
+  // const json = test;
   const formatted = json.rows.map((c: any) => {
     c.meeting_days = formatDays(c.meeting_days);
     c.meeting_days = c.meeting_days.sort(sortDays);
